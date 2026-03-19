@@ -1,6 +1,6 @@
 # Practical Application Assignment 5.1 – Will the Customer Accept the Coupon?
 
-This project focuses on understanding what influences a customer’s decision to accept or reject a driving coupon. Using data visualization and probability-based insights, the goal was to identify patterns that separate customers who accept coupons from those who don’t.
+This project focuses on understanding what influences a customer’s decision to accept or reject a driving coupon. Using data visualization and probability based insights, the goal was to identify patterns that separate customers who accept coupons from those who don’t.
 
 The dataset used for this analysis can be found here:  
 [Link to Coupons Dataset](/coupons.csv)
