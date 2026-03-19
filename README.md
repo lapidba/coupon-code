@@ -7,14 +7,14 @@ The dataset used for this analysis can be found here:
 
 The analysis was carried out in Python using commonly used data science libraries such as pandas, seaborn, matplotlib, numpy, and sweetviz.  
 All code, visualizations, and detailed observations are available in the Jupyter Notebook below:  
-[https://github.com/lapidba/coupon-code/blob/main/prompt.ipynb](/prompt.ipynb)
+[Link to Jupyter Notebook](/prompt.ipynb)
 
 ---
 
 ## Exploratory Data Analysis
 
 To get an initial understanding of the dataset, the SweetViz library was used to generate an automated exploratory report:  
-[https://github.com/lapidba/coupon-code/blob/main/SWEETVIZ_REPORT.html](/SWEETVIZ_REPORT.html)
+[Link to SweetViz Report](/SWEETVIZ_REPORT.html)
 
 ### Data Quality Observations
 
